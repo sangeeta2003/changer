@@ -86,7 +86,7 @@ function App(): JSX.Element {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Monster
+            Monster..hay!!
           </Section>
           <LearnMoreLinks />
         </View>
